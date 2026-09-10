@@ -9,6 +9,8 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## September 2026:
 
+* [The internal kinematics and chemistry of 20 Milky Way strings](https://arxiv.org/abs/2609.10147)
+* [The solar Galactocentric distance and local kinematic parameters from Gaia DR3 using Bottlinger's equations](https://arxiv.org/abs/2609.10258)
 * [Phase-Spirals Across Galactic Disks II: Using large-scale "macro-spirals" in phase-spiral amplitude to derive perturbation times](https://arxiv.org/abs/2609.09543)
 * [A direct measurement of the tilting rate of the Milky Way disc](https://arxiv.org/abs/2609.05615)
 * [Triaxiality of the Milky Way dark matter halo and the microlensing optical depth towards the Large Magellanic Cloud](https://arxiv.org/abs/2609.08988)
