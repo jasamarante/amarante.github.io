@@ -9,6 +9,7 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## September 2026:
 
+* [Phase-Spirals Across Galactic Disks II: Using large-scale "macro-spirals" in phase-spiral amplitude to derive perturbation times](https://arxiv.org/abs/2609.09543)
 * [A direct measurement of the tilting rate of the Milky Way disc](https://arxiv.org/abs/2609.05615)
 * [Triaxiality of the Milky Way dark matter halo and the microlensing optical depth towards the Large Magellanic Cloud](https://arxiv.org/abs/2609.08988)
 * [Closed-Form of the Local Galactic Potential and Stellar Distribution Function from Gaia DR3](https://arxiv.org/abs/2609.09011)
