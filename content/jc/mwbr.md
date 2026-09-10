@@ -1,11 +1,15 @@
 ---
 title: "MWBR  Journal Club"
-date: 2026-09-04
+date: 2026-09-10
 draft: false
 
 ---
 
 You can check some nice statistics on this JC [here](https://guilimberg.github.io/mwbr-dash-2026May06/).
+
+### September 9th 2026:
+
+* Lais:  [Semi-resolved stellar populations as distance indicators](https://arxiv.org/abs/2609.01400)
 
 ### September 2nd 2026:
 

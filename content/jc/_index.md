@@ -1,6 +1,6 @@
 ---
 
-date: 2026-09-04
+date: 2026-09-10
 
 ---
 
@@ -9,6 +9,9 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## September 2026:
 
+* [A direct measurement of the tilting rate of the Milky Way disc](https://arxiv.org/abs/2609.05615)
+* [Triaxiality of the Milky Way dark matter halo and the microlensing optical depth towards the Large Magellanic Cloud](https://arxiv.org/abs/2609.08988)
+* [Closed-Form of the Local Galactic Potential and Stellar Distribution Function from Gaia DR3](https://arxiv.org/abs/2609.09011)
 * [Same galaxy, different CGM: how the metal loading of galactic winds regulates the baryon cycle in Milky Way-mass galaxies](https://arxiv.org/abs/2609.03083)
 * [Turbulent gas-rich discs at high redshift: the origin of early massive stellar bars](https://arxiv.org/abs/2609.03275)
 * [Chemical evolution of Na, Mg, and Al in the Galactic bulge from UVES data](https://arxiv.org/abs/2609.01801)
